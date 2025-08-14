@@ -1,0 +1,8 @@
+git status --> git ko status herna
+ 1. file track xa ki nai
+ 2. commit xa ki nai
+ 3. branch ko commit ra local commit herna lai 
+
+git add . --> file lai track garna
+
+git commit -m " <commit message> "
